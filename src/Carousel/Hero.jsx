@@ -16,7 +16,7 @@ function Hero() {
   console.log("raj", data);
 
   return (
-    <div className="container">
+    <div className="container box">
       <div className="py-4">
         {" "}
         <div className="carousel-inner" data-bs-ride="carousel">
